@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Protect proprietary Bioanim Games artwork, logos, icons & videos from being pushed to GitHub
+public/assets/
+src/assets/
